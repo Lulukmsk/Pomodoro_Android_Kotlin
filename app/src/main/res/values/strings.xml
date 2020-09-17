@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PomodoraTest</string>
+    <string name="startDescription">Start Pomodora</string>
+    <string name="RegularPomodoraString">Regular</string>
+    <string name="DoublePomodoraString">Double</string>
+    <string name="QuadroPomodoraString">Quad</string>
+    <string name="CustomPomodoraString">Custom</string>
+    <string name="HoursHintString">Hours</string>
+    <string name="MinutesHintString">Minutes</string>
+    <string name="SecondsHintString">Seconds</string>
+    <string name="StopButtonText">Stop</string>
+    <string name="ResumeButtonText">Resume</string>
+</resources>
